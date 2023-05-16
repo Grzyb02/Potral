@@ -1,2 +1,2 @@
-# Potral
-Portal
+# Portal
+Gra portal dla Control II
